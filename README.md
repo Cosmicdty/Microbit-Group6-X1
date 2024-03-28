@@ -26,7 +26,7 @@ Python
 JavaScript
 
 
-Libraries:
+*Libraries:
 
 OLED12864_I2C
 
