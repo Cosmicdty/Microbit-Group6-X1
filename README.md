@@ -1,9 +1,11 @@
 
 > View this page at https://makecode.microbit.org/#editor
+![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
+![e627d728d1eb75293af073b71be4f90](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/ffab1ae8-79d5-4769-91a3-b4eb5ac8e44a)
 
 *Hardware:
 
-BBC micro:bit V2
+BBC micro: bit V2
 Neopixel Ring LED
 The OLED 128x64 display (0.96inch)
 Pulse sensor
@@ -18,7 +20,7 @@ Libraries:
 
 OLED12864_I2C
 Neopixel
-Micro:bit
+Micro: bit
 
 ## You can view or edit this project
 
