@@ -11,7 +11,7 @@ To edit this repository in Microbit MakeCode.😇
 * Instructions on how to use this code：💭
 1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.👇
    
-2. Then below is the text that turns on the OLED by pressing button A, displays the N-shaped logo and starts by pressing the button.👉
+2. The below is the text that turns on the OLED by pressing button A, displays the N-shaped logo and starts by pressing the button.👉
    
 3. Then next to the right, cycle through the Forever module to read the data on pin 2 (pin 2 is connected to the pulse sensor for heart rate measurement). 👇
  
