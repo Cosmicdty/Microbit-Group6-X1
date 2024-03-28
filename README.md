@@ -7,9 +7,9 @@
 To edit this repository in Microbit MakeCode.😇
 
 
-* open https://makecode.microbit.org/#editor
+* Open https://makecode.microbit.org/#editor
 * Instructions on how to use this code：💭
-1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.👇
+1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.(Using Pin 0 to Control Neopixel Ring LEDs)👇
 
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/de360803-fae2-4e06-b50f-7cca846fe6eb)
 
