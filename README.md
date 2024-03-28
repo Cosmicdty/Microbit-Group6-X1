@@ -1,7 +1,8 @@
 
 > Open this page at https://makecode.microbit.org/#editor
 
-## Edit this project
+## Edit this project![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/40fa6ded-0e66-4ac3-846d-5259d1bf5db9)
+
 
 To edit this repository in MakeCode.
 
