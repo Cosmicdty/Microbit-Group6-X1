@@ -41,7 +41,7 @@ To edit this repository in Microbit MakeCode.😇
 
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/eb9c015f-6ecd-4a95-83cb-348c8da83806)
 
-8. Then the code in the forever module on the right uses a pulse sensor to measure and calculate how many beats per minute the heart rate is. As well as displaying a heart icon the first time finger data is detected.👇
+8. Then the code in the forever module on the right uses a pulse sensor to measure and calculate how many beats per minute the heart rate is. And displaying a heart icon the first time finger data is detected.👇
 
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/60d15df8-69eb-4af2-89a4-03c267470d26)
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/1e9b4713-4c97-425d-8ec5-63f150f0ef2c)
