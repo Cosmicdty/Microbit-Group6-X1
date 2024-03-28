@@ -1,5 +1,5 @@
 
-> Open this page at https://makecode.microbit.org/#editor[https://cosmicdty.github.io/x1/](https://cosmicdty.github.io/x1/)
+> Open this page at https://makecode.microbit.org/#editor
 
 ## Use as Extension
 
