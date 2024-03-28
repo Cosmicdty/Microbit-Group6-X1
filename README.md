@@ -16,6 +16,7 @@ Pulse sensor
 
 9V battery
 
+
 *Software:
 
 Microbit makecode
@@ -23,6 +24,7 @@ Microbit makecode
 Python 
 
 JavaScript
+
 
 Libraries:
 
