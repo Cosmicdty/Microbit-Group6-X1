@@ -6,20 +6,27 @@
 *Hardware:
 
 BBC micro: bit V2
+
 Neopixel Ring LED
+
 The OLED 128x64 display (0.96inch)
+
 Pulse sensor
 
 *Software:
 
 Microbit makecode
+
 Python 
+
 JavaScript
 
 Libraries:
 
 OLED12864_I2C
+
 Neopixel
+
 Micro: bit
 
 ## You can view or edit this project
