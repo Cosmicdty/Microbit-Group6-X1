@@ -10,16 +10,24 @@ To edit this repository in Microbit MakeCode.😇
 * open https://makecode.microbit.org/#editor
 * Instructions on how to use this code：💭
 1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.👇
-   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/de360803-fae2-4e06-b50f-7cca846fe6eb)
+    ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/de360803-fae2-4e06-b50f-7cca846fe6eb)
 
    
 2. The below code module is the text that turns on the OLED by pressing button A, displays the N-shaped logo and starts by pressing the button.👉
-   
-4. Then next to the right, cycle through the Forever module to read the data on pin 2 (pin 2 is connected to the pulse sensor for heart rate measurement). 👇
- 
-5. This is followed by pressing button B to clear the screen before displaying icons and heart rate on the OLED, as well as step-by-step text for the inhale, hold, and exhale phases. Finally, the display is switched off 10s after the end of the process.👉
-   
-6. Then next to it on the right side from top to bottom, the code module serves to synchronise the illumination of the Neopixel Ring LEDs by pressing key B. In order, the red light is on for 4s, the yellow light stays on for 7s and the blue light goes off one by one for a total of 8s.👇
+   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/9f6a9239-21e9-477e-bd64-05ee3231afc1)
+   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/4b8618e4-f1a0-4a71-9d2d-04b4978de1ef)
+
+3. Then next to the right, cycle through the Forever module to read the data on pin 2 (pin 2 is connected to the pulse sensor for heart rate measurement). 👇
+  ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/d4187a18-f540-44ab-bd0f-df9da93f5552)
+  ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/c6832b8f-0819-4139-951d-7f18cfc844fd)
+  ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/49d055d7-6d0e-4b1e-8de9-6c7068f2a950)
+  ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/5d31d151-f779-4ceb-8987-10c3c160c151)
+
+4. This is followed by pressing button B to clear the screen before displaying icons and heart rate on the OLED, as well as step-by-step text for the inhale, hold, and exhale phases. Finally, the display is switched off 10s after the end of the process.👉
+   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0a50db8d-bc2b-4931-b85e-4446a3046868)
+   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/372ff5bd-6d2d-4920-9193-6472ba6f5d54)
+
+5. Then next to it on the right side from top to bottom, the code module serves to synchronise the illumination of the Neopixel Ring LEDs by pressing key B. In order, the red light is on for 4s, the yellow light stays on for 7s and the blue light goes off one by one for a total of 8s.👇
  
 7. Then the following code module is to switch off the display after 5 minutes (to avoid automatic switching off if the user has made a mistake or if the display has not been used for a long time).👇
    
