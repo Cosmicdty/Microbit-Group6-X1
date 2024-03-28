@@ -4,8 +4,7 @@
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/02369576-c856-4b23-8d48-7284df3fa203)
 
-#### /
-*Hardware:
+#### *Hardware:
 
 BBC micro: bit V2
 
@@ -17,8 +16,7 @@ Pulse sensor
 
 9V battery
 
-#### /
-*Software:
+#### *Software:
 
 Microbit makecode
 
@@ -26,8 +24,7 @@ Python
 
 JavaScript
 
-#### /
-*Libraries:
+#### *Libraries:
 
 OLED12864_I2C
 
