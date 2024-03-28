@@ -1,7 +1,7 @@
 
 > Open this page at https://makecode.microbit.org/#editor
 
-## Edit this project
+## You can view or edit this project
 
 
 To edit this repository in Microbit MakeCode.😇
