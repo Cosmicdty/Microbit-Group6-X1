@@ -8,7 +8,7 @@ To edit this repository in Microbit MakeCode.😇
 
 
 * open https://makecode.microbit.org/#editor
-* Instructions on how to use this code：
+* Instructions on how to use this code：💭
 1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.👇
    
 2. Then below is the text that turns on the OLED by pressing button A, displays the N-shaped logo and starts by pressing the button.👉
