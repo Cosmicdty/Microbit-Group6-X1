@@ -28,7 +28,7 @@ To edit this repository in Microbit MakeCode.😇
   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/49d055d7-6d0e-4b1e-8de9-6c7068f2a950)
   ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/5d31d151-f779-4ceb-8987-10c3c160c151)
 
-5. Then next to it on the right side from top to bottom, the code module serves to synchronise the illumination of the Neopixel Ring LEDs by pressing key B. In order, the red light is on for 4s, the yellow light stays on for 7s and the blue light goes off one by one for a total of 8s.👇
+5. After pressing the B key, the code module here will switch on the Neopixel Ring LEDs, synchronising with the previous screen display. Set the light intensity to 50. In sequence, the red lights come on one by one for 4 seconds, the yellow lights stay on for 7 seconds, and the blue lights go off one by one for 8 seconds.👇
 
    ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0a50db8d-bc2b-4931-b85e-4446a3046868)
    ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/372ff5bd-6d2d-4920-9193-6472ba6f5d54)
@@ -37,7 +37,7 @@ To edit this repository in Microbit MakeCode.😇
    
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/7c817be4-c8ac-4f64-bb3c-a295edb17175)
 
-7. Then the following code module is to draw 3 rectangles for landscaping the screen. It is displayed every 500ms. (New idea: phases of steps can be represented in a certain chronological order)👉
+7. Next, the following code module is to draw 3 rectangles for landscaping the screen. It is displayed every 500ms. (New idea: phases of steps can be represented in a certain chronological order)👉
 
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/eb9c015f-6ecd-4a95-83cb-348c8da83806)
 
