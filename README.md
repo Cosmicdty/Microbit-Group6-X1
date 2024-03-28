@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/02369576-c856-4b23-8d48-7284df3fa203)
-![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/b6d5c703-30e6-4849-9a31-f69ccda5fdec)
+![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/c1032d8a-2ffc-40cf-a1a1-19e74bcb642f)
 
 #### *Hardware:
 
