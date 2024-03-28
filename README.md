@@ -1,5 +1,5 @@
 
-> Open this page at https://makecode.microbit.org/#editor
+> View this page at https://makecode.microbit.org/#editor
 
 ## You can view or edit this project
 
