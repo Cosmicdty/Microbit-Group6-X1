@@ -47,7 +47,8 @@ To edit this repository in Microbit MakeCode.😇
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/1e9b4713-4c97-425d-8ec5-63f150f0ef2c)
 
 
-(The principle is to set the counter to 1 when a level signal greater than 870 is detected and the counter is 0. When a level signal less than 430 is detected and the counter is 1, the counter is set to 0. Determine the time taken for the level signal to reach 870 again according to the time when the counter changes, and thus calculate the time for a complete wave. Originally only 60000ms/T was needed to calculate the heart rate. However, the equation (60000 - 60000 % T) / T was used to present the result as an integer. It should also be possible to use the rounding function in the Math code module.)
+(The principle is to set the counter to 1 when a level signal greater than 870 is detected and the counter is 0. When a level signal less than 430 is detected and the counter is 1, the counter is set to 0. Determine the time taken for the level signal to reach 870 again according to the time when the counter changes, and thus calculate the time for a complete wave. Originally only 60000ms/T was needed to calculate the heart rate. However, to display the result as an integer, we use the equation (60000 - 60000 % T) / T. It should also be possible to use the rounding function in the Math code module.)
+
 
 9. The last code module is used to display the heart rate value every 500 milliseconds so that the heart rate value changes on the OLED.💛
 
