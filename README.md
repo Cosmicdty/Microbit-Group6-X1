@@ -65,7 +65,7 @@ To edit it in Microbit MakeCode.😇
    ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0a50db8d-bc2b-4931-b85e-4446a3046868)
    ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/372ff5bd-6d2d-4920-9193-6472ba6f5d54)
 
-6. Then the following code module is to switch off the display after 5 minutes (to avoid automatic switching off if the user has made a mistake or if the display has not been used for a long time).👇
+6. Then the following code module is to switch off the display after 5 minutes (to avoid automatic switching off if the user has made a incorrect operation or if the display has not been used for a long time).👇
    
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/7c817be4-c8ac-4f64-bb3c-a295edb17175)
 
