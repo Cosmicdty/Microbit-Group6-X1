@@ -1,4 +1,4 @@
-> View the software of this project at https://makecode.microbit.org/#editor
+> You can edit the code on https://makecode.microbit.org/#editor
 
 
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
@@ -33,10 +33,10 @@ Neopixel
 
 Micro: bit
 
-## You can view or edit this project
+## You can edit the project
 
 
-To edit this repository in Microbit MakeCode.😇
+To edit it in Microbit MakeCode.😇
 
 
 * Open https://makecode.microbit.org/#editor
