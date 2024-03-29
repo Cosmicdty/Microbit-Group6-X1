@@ -69,7 +69,7 @@ To edit this repository in Microbit MakeCode.😇
    
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/7c817be4-c8ac-4f64-bb3c-a295edb17175)
 
-7. Next, the following code module is to draw 3 rectangles for landscaping the screen. It is displayed every 500ms. (New idea: phases of steps can be represented in a certain chronological order)👉
+7. Next, the following code module is to draw 3 rectangles for landscaping the screen. It is displayed every 500ms. 👉
 
     ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/eb9c015f-6ecd-4a95-83cb-348c8da83806)
 
