@@ -1,11 +1,19 @@
-> You can edit the code on https://makecode.microbit.org/#editor
-
 ## CalmFlow Breathing Relaxation Guided Handheld Device
 
 
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/02369576-c856-4b23-8d48-7284df3fa203)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/c1032d8a-2ffc-40cf-a1a1-19e74bcb642f)
+
+## brief statement
+
+About this handheld device, we used OLED, Neopixel Ring LED, 9V battery and pulse sensor.
+
+* The OLED 128x64 display (0.96inch) is used to display each step of the process, which makes it easy to guide the user through the breathing process visually. We displayed icons, process step text, and heart rate variability (beats per minute) on the OLED.
+
+* The Neopixel Ring LED shows the different visual dynamics of each step in the process. During the inhalation phase, the light is red and each LED lights up one by one (for a total of 4s). During the retention phase, the light is yellow, and all the LEDs remain on (for a total of 7s). The light is blue during the exhalation phase, and each LED turns off one by one (8s total).
+
+* A pulse sensor is used to detect the user's heart rate changes so that the users can understand their anxiety/relaxation state in real time.
 
 #### *Hardware:
 
@@ -35,13 +43,28 @@ Neopixel
 
 Micro: bit
 
-## You can edit the project
+## Usage Process
 
+![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/6cd79dc2-c6d7-498d-9eda-1def27c35665)
+
+1. Press button A to turn on the screen display (it acts like a switch)
+   
+2. Place your finger on the pulse sensor.
+   
+3. Wait for a while (about 10~30s) for the BMP data on the OLED screen to display steadily (if the data does not jump for a long time, you can take out the finger and put it back in, repeat several times).
+   
+4. Press button B to start the breathing relaxation process.
+
+The handheld will switch off automatically after 10 seconds to save energy. In addition, if the A button is not used for a long time after it is pressed, it will switch off after 5 minutes.
+
+
+
+
+## You can edit the project
+> You can edit the code on https://makecode.microbit.org/#editor
 
 To edit it in Microbit MakeCode.😇
 
-
-* Open https://makecode.microbit.org/#editor
 * Instructions on how to use this code：💭
 1. We can see the far left side of the code, configuring the initial settings for Neopixel and OLED in the start module.(Using Pin 0 to Control Neopixel Ring LEDs)👇
 
