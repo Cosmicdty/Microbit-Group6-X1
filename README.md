@@ -62,6 +62,7 @@ The handheld will switch off automatically after 10 seconds to save energy. In a
 
 ## You can edit the project
 > You can edit the code on https://makecode.microbit.org/#editor
+
 To edit it in Microbit MakeCode.😇
 
 * Instructions on how to use this code：💭
