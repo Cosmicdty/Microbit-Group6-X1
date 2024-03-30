@@ -1,13 +1,13 @@
-## CalmFlow Breathing Relaxation Guided Handheld Device
+##     CalmFlow Breathing Relaxation Guided Handheld Device
 
 
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/0ac007c5-c3e0-45c5-ba6c-9f2c70033060)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/02369576-c856-4b23-8d48-7284df3fa203)
 ![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/c1032d8a-2ffc-40cf-a1a1-19e74bcb642f)
 
-## brief statement
+## Overview
 
-About this handheld device, we used OLED, Neopixel Ring LED, 9V battery and pulse sensor.
+  About this handheld device, we used OLED, Neopixel Ring LED, 9V battery and pulse sensor.
 
 * The OLED 128x64 display (0.96inch) is used to display each step of the process, which makes it easy to guide the user through the breathing process visually. We displayed icons, process step text, and heart rate variability (beats per minute) on the OLED.
 
@@ -45,7 +45,7 @@ Micro: bit
 
 ## Usage Process
 
-![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/6cd79dc2-c6d7-498d-9eda-1def27c35665)
+![image](https://github.com/Cosmicdty/Microbit-Group6-X1/assets/145985380/db1837d7-ff98-462a-bcb5-f153b3928500)
 
 1. Press button A to turn on the screen display (it acts like a switch)
    
@@ -62,7 +62,6 @@ The handheld will switch off automatically after 10 seconds to save energy. In a
 
 ## You can edit the project
 > You can edit the code on https://makecode.microbit.org/#editor
-
 To edit it in Microbit MakeCode.😇
 
 * Instructions on how to use this code：💭
