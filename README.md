@@ -9,7 +9,7 @@
 
   About this handheld device, we used OLED, Neopixel Ring LED, 9V battery and pulse sensor.
 
-* The OLED 128x64 display (0.96inch) is used to display each step of the process, which makes it easy to guide the user through the breathing process visually. We displayed icons, process step text, and heart rate variability (beats per minute) on the OLED.
+* The OLED 128x64 display (0.96inch) is used to display each step of the process, which makes it easy to guide the user through the breathing process visually. We displayed icons, process step text, and heart rate (beats per minute) on the OLED.
 
 * The Neopixel Ring LED shows the different visual dynamics of each step in the process. During the inhalation phase, the light is red and each LED lights up one by one (for a total of 4s). During the retention phase, the light is yellow, and all the LEDs remain on (for a total of 7s). The light is blue during the exhalation phase, and each LED turns off one by one (8s total).
 
